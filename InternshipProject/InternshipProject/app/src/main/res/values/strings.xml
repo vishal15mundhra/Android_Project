@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InternshipProject</string>
+    <string name="loginlogo">loginlogo</string>
+    <string name="signuplogo">signuplogo</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="action_sign_in_short" />
+    <string name="Register">Register</string>
+    <string name="Flashlogo">Flashlogo</string>
+    <string name="btn_forgot_password" />
+    <string name="btn_link_to_login" />
+    <string name="whatsup_bitches">whatsup Bitches</string>
+    <string name="minimum_password" />
+    <string name="auth_failed" />
+    <string name="please">PLEASE</string>
+    <string name="Open" />
+    <string name="Close" />
+    <string name="internship_project">Internship Project</string>
+    <string name="abcd_gmail_com">abcd@gmail.com</string>
+    <string name="pass">..................</string>
+    <string name="abcde">abcde</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_the_email_id_you_used_to_sign_in_the_app">Enter the Email ID you used to Sign in the App</string>
+    <string name="an_email_will_be_sent_with_instructions_for_resetting_your_passweord">An Email will be sent with instructions for resetting your Passweord</string>
+    <string name="reset">reset</string>
+
+</resources>
